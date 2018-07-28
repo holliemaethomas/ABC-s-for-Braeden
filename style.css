@@ -1,0 +1,18 @@
+body{
+  background-color: rgb(70, 73, 221);
+}
+
+#letterBox{
+  font-size: 500pt;
+  color: rgb(49, 207, 17);
+  text-align: center;
+}
+
+#showNext{
+  border: 1in;
+  border-color: blue;
+  position: fixed;
+  height: 20pt;
+  width: 75pt;
+  background-color: rgb(58, 236, 14);
+}
